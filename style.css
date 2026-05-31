@@ -1,0 +1,33 @@
+body{
+font-family: Arial, sans-serif;
+}
+
+.hero{
+background:url('https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1200');
+background-size:cover;
+background-position:center;
+height:90vh;
+display:flex;
+align-items:center;
+justify-content:center;
+color:white;
+}
+
+.hero h1{
+font-size:60px;
+font-weight:bold;
+}
+
+.card{
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+margin-bottom:20px;
+transition:0.3s;
+}
+
+.card:hover{
+transform:scale(1.05);
+}
+
+footer{
+margin-top:40px;
+}
