@@ -1,4 +1,4 @@
-function calculateBMI(){
+jij9ij9function calculateBMI(){
 
 let height =
 document.getElementById("height").value;
